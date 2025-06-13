@@ -4,7 +4,7 @@ This project presents a comprehensive **retail sales performance analysis** usin
 ---
 
 ## 📂 Project Files
-<a href="https://github.com/TheOluwatobiloba/Store-Sales-Analysis-Dashboard-Excel-based-Project-">Strore Sales</a>
+<a href="https://github.com/TheOluwatobiloba/Store-Sales-Analysis-Dashboard-Excel-based-Project-/blob/main/Store%20sales%20performance.xlsx">Strore Sales</a>
 
 ---
 
